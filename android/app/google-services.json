@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823156557683",
+    "project_id": "bottlechat-55408",
+    "storage_bucket": "bottlechat-55408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823156557683:android:e6a6fb42cc7a3e94d6e706",
+        "android_client_info": {
+          "package_name": "com.example.bottle_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823156557683-gqlqhhpefi48ptrp1tnjqth1ij2idhrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBY8e2nCC97S28Zqm020Dt_QnkECzSEd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823156557683-gqlqhhpefi48ptrp1tnjqth1ij2idhrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
